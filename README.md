@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Wellcome](/github-prifile-header@3x.png?raw=true)
-
+[![Top Langs](https://dyn-qrcode-mu.vercel.app/api?url=https://covdeveloper.io)](https://covdeveloper.io)
 <!--
 **shusten/shusten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
