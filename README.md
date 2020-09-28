@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shusten&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shusten&layout=compact&theme=merko)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shusten&layout=compact&theme=merko)
 [![Top Langs](https://dyn-qrcode-mu.vercel.app/api?url=https://covdeveloper.io)](https://covdeveloper.io)
 
 
