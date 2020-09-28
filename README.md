@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp_dotnet.svg" alt="cs_dotnet" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs_larger.svg" alt="node" style="vertical-align:top; margin:4px">
-   <img src="/wordpress@3x.png" alt="wordpress" style="vertical-align:top; margin:4px">
+   <img src="/wordpress@3x.png" alt="wordpress" style="vertical-align:top; margin:4px;" width="115px"/>
   
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
